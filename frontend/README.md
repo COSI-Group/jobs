@@ -1,0 +1,61 @@
+
+# ![Cosi](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI3IiBoZWlnaHQ9IjI5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxnIGZpbGw9IiMwMDNENEQiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICA8cGF0aCBkPSJNMjAuNTUxIDMuMjUzYy43NDMtLjY3IDEuMTctMS4xMjMgMS4yNzgtMS4zNTUuMTM0LS4zMjguMzMtLjQ5My41ODctLjQ5My4yNyAwIC40MTguMjQ3LjQ0NS43NGwuNDQ2IDcuMTY0YzAgLjQxLS4wMTguNjYtLjA1MS43NDktLjAzNC4wODgtLjEzMS4xMzMtLjI5NC4xMzMtLjIxNSAwLS40NDUtLjI5NC0uNjg4LS44ODItLjg5MS0yLjE4My0yLjEzMy0zLjk2OC0zLjcyNi01LjM1OC0xLjYwNi0xLjM4My0zLjM0OC0yLjA3NC01LjIyNC0yLjA3NC0xLjY0OCAwLTMuMTYuNTM3LTQuNTM2IDEuNjEyLTEuMzc3IDEuMDc0LTIuNDQ2IDIuNjA3LTMuMjEgNC41OTktLjc2MyAxLjk5LTEuMTQ0IDQuMTI5LTEuMTQ0IDYuNDE0IDAgMy44ODcgMS4wNTYgNy4wNDUgMy4xNyA5LjQ3NCAyLjExMyAyLjQyOSA0LjQ3MyAzLjY0NCA3LjA3OSAzLjY0NCAxLjc2OCAwIDMuMzk2LS41NjggNC44ODItMS43MDQgMS40ODUtMS4xMzUgMi42MDYtMi40NSAzLjM2My0zLjk0Mi4yMDEtLjQxLjQxLS42MTUuNjI2LS42MTUuMjk3IDAgLjQ0Ni4xNjQuNDQ2LjQ5MyAwIC4zOTctLjUxMyAxLjI2Ni0xLjUzOSAyLjYwNi0xLjAyNiAxLjM0Mi0yLjM3MyAyLjQzLTQuMDQxIDMuMjY0LTEuNjY3LjgzNS0zLjQ2IDEuMjUyLTUuMzc3IDEuMjUyLTIuMjU1IDAtNC4zOTktLjU4MS02LjQzLTEuNzQ0LTIuMDMzLTEuMTY0LTMuNjQzLTIuNzcyLTQuODMtNC44MjVDLjU5MiAyMC4zNTMgMCAxNy45NDUgMCAxNS4xOGMwLTIuNzEuNTc3LTUuMTUzIDEuNzMzLTcuMzI4IDEuMTU1LTIuMTc3IDIuNzgtMy44NjcgNC44NzUtNS4wNzFDOC43IDEuNTc2IDEwLjg2My45NzQgMTMuMDkyLjk3NGMxLjE5IDAgMi40MDUuMTg4IDMuNjQ4LjU2NCAxLjI0My4zNzYgMi41MTQuOTQ5IDMuODExIDEuNzE1TTQzLjU3OSAxMy42OTNjMCAyLjE3Ny4zNCA0LjQxIDEuMDI1IDYuNy42ODQgMi4yOTEgMS43NTcgMy45NTMgMy4yMiA0Ljk4OSAxLjQ2MyAxLjAzNSAzLjAyOCAxLjU1MiA0LjY5NiAxLjU1MiAyLjY5NCAwIDQuODUxLTEuMjggNi40Ny0zLjgzNyAxLjYyMi0yLjU1NiAyLjQzMS01LjUxOCAyLjQzMS04Ljg4MyAwLTMuMjU4LS44MjctNi4xMi0yLjQ4LTguNTg0LTEuNjU2LTIuNDY0LTMuODE2LTMuNjk2LTYuNDgxLTMuNjk2LTIuMDEgMC0zLjY4Ni42NTgtNS4wMjUgMS45NzMtMS4zNCAxLjMxNy0yLjMxOCAyLjg4OC0yLjkzMyA0LjcxOC0uNjE2IDEuODMtLjkyMyAzLjUyLS45MjMgNS4wNjhNMzkgMTQuMzQ0YzAtMS44LjU2Mi0zLjc4IDEuNjgzLTUuOTM0IDEuMTIzLTIuMTU2IDIuNzYzLTMuOTMzIDQuOTE4LTUuMzM1IDIuMTU2LTEuNCA0LjU5LTIuMSA3LjMtMi4xIDMuNzkyIDAgNi45MjIgMS4zMiA5LjM5MyAzLjk2MkM2NC43NjUgNy41NzkgNjYgMTAuNTk1IDY2IDEzLjk4NGMwIDMuNjAyLTEuMzY5IDYuODM1LTQuMTA2IDkuNjk4LTIuNzM4IDIuODYyLTYuMDMgNC4yOTItOS44NzYgNC4yOTItMy42ODMgMC02Ljc3Mi0xLjI1My05LjI3LTMuNzYyLTIuNS0yLjUwOC0zLjc0OC01Ljc5OC0zLjc0OC05Ljg2OE05NS43NzggMy42ODJjLjM3Mi0uMzYxLjYyLS43MzcuNzQ1LTEuMTI1LjExLS4zMjIuMjY5LS40ODIuNDc2LS40ODIuMTEgMCAuMjM0LjA2Ni4zNzMuMjAxLjA5Ny40ODEuMjM0IDEuNDUzLjQxMyAyLjkxMmwuNDk3IDMuNzc3YzAgLjI0MS0uMTUyLjM2MS0uNDU2LjM2MS0uMTY0IDAtLjMxLS4xMzMtLjQzNC0uNC0uNzMxLTEuNzU1LTEuODE0LTMuMjE2LTMuMjUtNC4zOC0xLjQzNC0xLjE1Mi0zLTEuNzI4LTQuNjk4LTEuNzI4LTEuNjcgMC0yLjkyOC40ODktMy43NzcgMS40NjYtLjg0OS45NzgtMS4yNzMgMi4wMTYtMS4yNzMgMy4xMTQgMCAxLjM0LjQ2MyAyLjM2NCAxLjM4NyAzLjA3My45MjUuNzEgMi44MjkgMS41MTUgNS43MTIgMi40MTIgMi4xMjUuNjQyIDMuNzE2IDEuMjY1IDQuNzcxIDEuODY4IDEuMDU2LjYwMyAxLjk0MyAxLjQ0NiAyLjY2IDIuNTMuNzE3IDEuMDg2IDEuMDc2IDIuMjUxIDEuMDc2IDMuNDk3IDAgMi4xMTYtLjkwNCA0LjAxMS0yLjcxMiA1LjY4NS0xLjgwNyAxLjY3NC00LjAyMiAyLjUxMS02LjY0MyAyLjUxMS0yLjM2IDAtNC43MzMtLjcxNi03LjEyLTIuMTUtLjQ3LjM3NS0uNzczLjgxOC0uOTEgMS4zMjYtLjExLjQyOS0uMjkuNjQ0LS41MzkuNjQ0LS4yMiAwLS4zNzktLjI3Ni0uNDc2LS44MjQtLjA5Ni0uNTUtLjI5Ni0zLjE0OC0uNi03Ljc5NS4wNTUtLjE2LjItLjI0LjQzNC0uMjQuMjA4IDAgLjM3NC4xNDcuNDk3LjQ0IDIuMTI2IDUuMTg0IDUuMDkxIDcuNzc1IDguOSA3Ljc3NSAxLjg5IDAgMy4zNy0uNTUyIDQuNDQtMS42NTcgMS4wNy0xLjEwNSAxLjYwNC0yLjM3NCAxLjYwNC0zLjgwNyAwLS45OS0uMjg3LTEuOTAxLS44Ni0yLjczMi0uNTcyLS44My0xLjMzMS0xLjUtMi4yNzUtMi4wMS0uOTQ2LS41MDgtMi40NC0xLjA3Ny00LjQ4Mi0xLjcwNy0yLjYyMi0uODE3LTQuNDA0LTEuNTktNS4zNS0yLjMyLS45NDUtLjczLTEuNjM5LTEuNTUzLTIuMDgtMi40Ny0uNDQyLS45MTgtLjY2Mi0xLjgwNS0uNjYyLTIuNjYyIDAtMS43ODIuODMxLTMuMzYzIDIuNDk0LTQuNzQyIDEuNjYyLTEuMzggMy43MDItMi4wNjkgNi4xMTUtMi4wNjkuOTEyIDAgMS44NjcuMTQgMi44NjcuNDIyIDEuMDAxLjI4MSAyLjA0NS43MSAzLjEzNiAxLjI4Nk0xMTYuNDM0Ljk3NGwzLjc2My4wODIgNS43Ny0uMDgyYy42ODkgMCAxLjAzMy4xMzYgMS4wMzMuNDEgMCAuMjAzLS4xODYuMzMzLS41NTguMzg3LTEuNTI2LjE5LTIuNDguNzM1LTIuODU3IDEuNjM0LS4zNzguODk4LS41NjkgNC4yMjEtLjU2OSA5Ljk2NyAwIDIuMTEuMDU2IDQuNDg2LjE2NiA3LjEyOC4xMSAyLjY0LjIzNCA0LjIyLjM3IDQuNzM4LjE0LjUxNy40LjkzOS43ODUgMS4yNjYuMzg2LjMyNyAxLjEwMS41NTggMi4xNDguNjk0LjM0NC4wNC41MTUuMTcuNTE1LjM4OCAwIC4yNDUtLjE1OS4zNjktLjQ3Ni4zNjlsLTUuMTI4LS4wNDEtNC4zNjMuMDZjLS40ODIgMC0uNzIzLS4xMzYtLjcyMy0uNDA4IDAtLjI4NS4xOTMtLjQyOC41NzgtLjQyOCAxLjI4LS4wMjggMi4wMjgtLjQ1IDIuMjUtMS4yNjcuMjE5LS44MTcuMzMtMy40MjUuMzMtNy44MjMgMC00LjI0OC0uMDM4LTcuNjg2LS4xMTUtMTAuMzE0LS4wNzUtMi42MjctLjMtNC4yMzQtLjY3LTQuODItLjM3MS0uNTg1LTEuMDczLS45NTItMi4xMDUtMS4xMDItLjM4NS0uMDY5LS41NzgtLjIyNS0uNTc4LS40NyAwLS4yNDYuMTQ0LS4zNjguNDM0LS4zNjgiLz4KICA8L2c+Cjwvc3ZnPgo=)
+
+## Frontend Engineer exercise
+
+### The scenario
+
+The user wants to do check-in on the way to the airport using a mobile phone.
+
+- How we want to user to do it:
+  - The user should provide his flight number and last name
+  - Afterwards, fill a simple form with basic information based on his nationality
+  - The user should be able to review the information before confirming
+  - Confirm the check-in! :)
+
+- Every user should provide the following basic info: **full name**, **nationality**, **phone number**, **e-mail**, **passport number** and **terms & conditions acceptance**.
+- Depending on the user's nationality, a few extra fields should be required:
+  - Austria:
+    - residence (country and city only)
+    - passport expiry date
+  - Belgium:
+    - birth date
+    - residence (country, city and address)
+  - France:
+    - birth date
+    - birth place
+    - residence (country and city only)
+  - Greece:
+    - passport date of issue
+    - passport location of issue (country and city)
+    - passport expiry date
+  - Spain:
+    - residence (address only)
+
+**There is a wireframe suggestion at the end of this README. Feel free to follow it or not.**
+
+### Must be / use / have
+
+- Responsive!
+- A design system / component your library of your preference e.g. Material, Tailwind, Bulma, etc.
+- Basic testing with Jest and testing-library
+- Any fake API free service to do all async operations: checking flight number + last name combination, sending the users data and getting the response back. Some options: fakejson.com, mocki.io, dummyapi.io.
+
+### The deliverable
+
+A public Github repository containing your exercise: A small React single page application to do web check-in for flights
+
+- Host it on your go-to service e.g. Vercel, Netlify, S3. All of these have generous free-tiers.
+- A basic README with how a new engineer can contribute to the project.
+
+### How we will evaluate your exercise
+
+Besides the skills we listed on this repository root, for the exercise we look for three skills we believe a engineer should have: **code craftsmanship**, **attention to detail** and **team work**.
+
+### **How to submit**
+
+After completing the exercise, please forward the link to your Github repository for this exercise to inacio.schweller@cosi-group.com
+
+### Sample wireframe
+
+![Sample wireframe](./wireframe.png)
