@@ -7,11 +7,11 @@
 
 The user wants to do check-in on the way to the airport using a mobile phone.
 
-- How we want to user to do it:
+- How we believe the user should do it:
   - The user should provide his flight number and last name
   - Afterwards, fill a simple form with basic information based on his nationality
   - The user should be able to review the information before confirming
-  - Confirm the check-in! :)
+  - In the last step, the user should see the confirmation page. :)
 
 - Every user should provide the following basic info: **full name**, **nationality**, **phone number**, **e-mail**, **passport number** and **terms & conditions acceptance**.
 - Depending on the user's nationality, a few extra fields should be required:
