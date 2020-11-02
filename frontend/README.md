@@ -40,6 +40,7 @@ The user wants to do check-in on the way to the airport using a mobile phone.
 - A design system / component your library of your preference e.g. Material, Tailwind, Bulma, etc.
 - Basic testing with Jest and testing-library
 - Any fake API free service to do all async operations: checking flight number + last name combination, sending the users data and getting the response back. Some options: fakejson.com, mocki.io, dummyapi.io.
+- **Extra bonus point if you go for a technology that never used before e.g. Typescript, react-query, SWR.**
 
 ### The deliverable
 
@@ -51,6 +52,8 @@ A public Github repository containing your exercise: A small React single page a
 ### How we will evaluate your exercise
 
 Besides the skills we listed on this repository root, for the exercise we look for three skills we believe a engineer should have: **code craftsmanship**, **attention to detail** and **team work**.
+
+**While there's no deadline to complete the exercise once you receive please bear in mind that the timebox for it should be no more than 4 hours.**
 
 ### **How to submit**
 
