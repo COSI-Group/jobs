@@ -40,7 +40,7 @@ The user wants to do check-in on the way to the airport using a mobile phone.
 - A design system / component your library of your preference e.g. Material, Tailwind, Bulma, etc.
 - Basic testing with Jest and testing-library
 - Any fake API free service to do all async operations: checking flight number + last name combination, sending the users data and getting the response back. Some options: fakejson.com, mocki.io, dummyapi.io.
-- **Extra bonus point if you go for a technology that never used before e.g. Typescript, react-query, SWR.**
+- **Extra bonus point if you go for a technology that never used before e.g. Typescript, react-query, SWR or any other relevant one.**
 
 ### The deliverable
 
