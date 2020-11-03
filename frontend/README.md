@@ -53,7 +53,7 @@ A public Github repository containing your exercise: A small React single page a
 
 Besides the skills we listed on this repository root, for the exercise we look for three skills we believe a engineer should have: **code craftsmanship**, **attention to detail** and **team work**.
 
-**While there's no deadline to complete the exercise once you receive please bear in mind that the timebox for it should be no more than 4 hours.**
+**While there's no deadline to complete the exercise, once you receive it, please bear in mind that the timebox for it should be around 4 hours.**
 
 ### **How to submit**
 
